@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<index schemaVersion="1.0.0" xs:noNamespaceSchemaLocation="PackIndex.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance">
+    <vendor>Milandr</vendor>
+    <url>http://www.VitalyS11.github.io/KeilTest/</url>
+    <timestamp>2023-12-27T12:00:10.7300074+00:00</timestamp>
+    <pindex>
+        <pdsc url="http://www.VitalyS11.github.io/KeilTest/" vendor="Milandr" name="MDR32FxQI " version="1.1.0"/>
+    </pindex>
+</index>
