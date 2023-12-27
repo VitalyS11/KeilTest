@@ -8,10 +8,10 @@
 
 
     <releases>
-        <release version="1.0" date="2022-04-05">
+        <release version="1.0.0" date="2022-04-05">
 Initial version
         </release>
-        <release version="1.1" date="2023-07-07">
+        <release version="1.1.0" date="2023-07-07">
 The addition of the CMSIS_device_header preprocessor directive with the name of the CMSIS header file of the selected microcontroller in the RTE_Components.h file is enabled.
 FLM files updated.
 The SPL MDR32FxQI libraries have been updated to version 1.1.
