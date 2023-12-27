@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package schemaVersion="1.2" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="PACK.xsd">
     <vendor>Milandr</vendor>
-    <url>https://raw.githubusercontent.com/VitalyS11/KeilTest/main/</url>
+    <url>https://VitalyS11.github.io/KeilTest/</url>
     <name>MDR32FxQI</name>
     <description>Milandr MDR32FxQI Series Device Support, Drivers and Examples</description>
     <license>License.txt</license>
